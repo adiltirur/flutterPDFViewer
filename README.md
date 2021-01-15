@@ -61,10 +61,6 @@ Use the pre-built PDF Viewer
   }
 ```
 
-This code produces the following view:
-
-<img height="500px" src="https://raw.githubusercontent.com/lohanidamodar/pdf_viewer/master/demo.png" alt="Demo Screenshot 1"/>
-
 ---
 
 ## New Platform Awareness Addition
