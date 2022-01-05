@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_cache_manager: ^2.1.1
-  path_provider: ^1.6.11
+  path_provider: ^2.0.8
   numberpicker: ^1.2.1
 
 flutter:
